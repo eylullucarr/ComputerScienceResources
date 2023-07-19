@@ -17,7 +17,7 @@ Eğer daha önce Github hesabınız yoksa, bir hesap oluşturmanız gerekir. <a 
 
 Fork, başkalarının projeleri üstünde kolayca çalışma yapmanızı sağlayan bir yöntem. Bunun üzerine çok kafa yormanıza gerek yok. Bu şekilde projeyi kendi hesabınıza forklayabilirsiniz.
 
-<img width="1512" alt="Screen Shot 2023-02-11 at 14 06 45" src="https://r.resimlink.com/SKTBor_w.png">
+<img width="1512" alt="Screen Shot 2023-02-11 at 14 06 45" src="https://resimlink.com/SKTBor_w">
 
 Sağ üstteki Fork seçeneğine basın. Daha sonra karşınıza şöyle bir ekran gelecek.
 
