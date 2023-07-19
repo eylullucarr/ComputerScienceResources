@@ -35,26 +35,45 @@ Artık kendi hesabınızın altında bu repoya ulaşıp, değişiklikler yapabil
 
 Artık bir reponuz var, dosyalarınızı yükleyebilirsiniz.
 
-Depo sayfanıza gidin ve "Add Files" düğmesine tıklayın. Eğer klasör oluşturacaksanız öncelikle "Create New File" düğmesine tıklıyoruz.
+Depo sayfanıza gidin ve `Add Files` düğmesine tıklayın. Eğer klasör oluşturacaksanız öncelikle `Create New File` düğmesine tıklıyoruz.
 
 <a href="https://resimlink.com/JR3UHg6fPr" title="ResimLink - Resim Yükle"><img width="1512" src="https://r.resimlink.com/JR3UHg6fPr.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
 
-Daha sonrasında ise oluşturacağımız klasörün adını yukarıdaki boşluğa yazıyoruz. Örneğin biz burada Angular klasörü oluşturmak istediğimizden "Angular/" şeklinde yaziyoruz. Sondaki "/" işareti klasör oluşturmamızı sağlıyor. Daha sonrasında "Links.md" yazarak linkleri ekleyeceğimiz dosyaları oluşturuyoruz. Son olarak "Commit Changes" düğmesine tıklayarak değişiklikleri kaydediyoruz.
+Daha sonrasında ise oluşturacağımız klasörün adını yukarıdaki boşluğa yazıyoruz. Örneğin biz burada Angular klasörü oluşturmak istediğimizden `Angular/` şeklinde yaziyoruz. Sondaki `/` işareti klasör oluşturmamızı sağlıyor. Daha sonrasında `Links.md` yazarak linkleri ekleyeceğimiz dosyaları oluşturuyoruz. Son olarak `Commit Changes` düğmesine tıklayarak değişiklikleri kaydediyoruz.
 
 <a href="https://resimlink.com/NkAUVQ" title="ResimLink - Resim Yükle"><img width="1512" src="https://r.resimlink.com/NkAUVQ.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
 
-Daha sonrasında köşeli parantezler içerisine eklemek istediğimiz linke vereceğimiz adı, url kısmına da linki yapıştırıyoruz. Ve "Commit Changes" düğmesine tıklayarak değişiklikleri kaydediyoruz.
+Daha sonrasında köşeli parantezler içerisine eklemek istediğimiz linke vereceğimiz adı, url kısmına da linki yapıştırıyoruz. Ve `Commit Changes` düğmesine tıklayarak değişiklikleri kaydediyoruz.
 
 <a href="https://resimlink.com/oPuSZWe4" title="ResimLink - Resim Yükle"><img  width="1512" src="https://r.resimlink.com/oPuSZWe4.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
 
 Yukarıdaki gibi yazının üstüne tıkladığında artık bizi direkt olarak linke yönlendirecektir.
 
-Artık bir klasörümüz olduğundan içine pdf,zip vb dosyaları da yükleyebiliriz. Klasör içerisine girip "Add Files" düğmesine tıklayın. Dosya yükleme işlemi yapacağımızdan "Upload File" düğmesine tıklıyoruz. (Fotoğrafta görüldüğü gibi Angular klasörüne girmiş bulunuyoruz.)
+Artık bir klasörümüz olduğundan içine pdf,zip vb dosyaları da yükleyebiliriz. Klasör içerisine girip `Add Files` düğmesine tıklayın. Dosya yükleme işlemi yapacağımızdan `Upload File` düğmesine tıklıyoruz. (Fotoğrafta görüldüğü gibi Angular klasörüne girmiş bulunuyoruz.)
 
 <a href="https://resimlink.com/Wm6PeTiQU3fB" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/Wm6PeTiQU3fB.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
 
-Bilgisayarınızdan tarayıcıya dosyaları sürükleyip bırakabilir ya da "Choose your files" düğmesine tıklayarak bilgisayarınızdaki dosyalardan seçebilirsiniz. Son olarak "Commit Changes" düğmesine tıklayarak değişiklikleri kaydediyoruz.
+Bilgisayarınızdan tarayıcıya dosyaları sürükleyip bırakabilir ya da `Choose your files` düğmesine tıklayarak bilgisayarınızdaki dosyalardan seçebilirsiniz. Son olarak `Commit Changes` düğmesine tıklayarak değişiklikleri kaydediyoruz.
 
 <a href="https://resimlink.com/XpEZYUrv" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/XpEZYUrv.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
+
+# Pull Request
+
+Bu değişiklikler sadece sizin reponuzda görünür olacaktır. Bu değişikliklerin asıl repoya gidebilmesi için `pull request` açmanız gerekir. Böylece asıl proje sahibi eklemek istediğiniz şeyleri inceler ve orijinal repoya ekler.
+
+Öcelikle Repoyu açın, reponuzda `Contribute` kısmında  `1 commit ahead` mesajını göreceksiniz. Bu mesajın üstüne tıklayın. 
+
+<a href="https://resimlink.com/zfPyJaGZOS" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/zfPyJaGZOS.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
+
+`Create Pull Request` seçeneğini ekranda göreceksiniz. Üstüne tıklayın. 
+
+<a href="https://resimlink.com/OP46-zGS" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/OP46-zGS.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
+
+Burada gerekli mesajları yazdıktan sonra tekradan `Create Pull Request` butonuna basıyoruz. Artık  pull requestimizin proje sahibi tarafından incelenmesini sağlayabilirsiniz.
+
+<a href="https://resimlink.com/a5UMy-" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/a5UMy-.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
+
+Bu adımlardan sonra gerekli incelemelerden sonra kodunuz orijinal repoya eklenecektir.
+
 
 
