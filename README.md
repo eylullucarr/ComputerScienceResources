@@ -1,4 +1,4 @@
-# ComputerScienceResources
+# Computer Science Resources
 
 ## İçerik
 
