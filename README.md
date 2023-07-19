@@ -18,9 +18,10 @@ Eğer daha önce Github hesabınız yoksa, bir hesap oluşturmanız gerekir. <a 
 Fork, başkalarının projeleri üstünde kolayca çalışma yapmanızı sağlayan bir yöntem. Bunun üzerine çok kafa yormanıza gerek yok. Bu şekilde projeyi kendi hesabınıza forklayabilirsiniz.
 
 <a href="https://resimlink.com/SKTBor_w"><img src="https://r.resimlink.com/SKTBor_w.png" width="1512" ></a>
+
 Sağ üstteki Fork seçeneğine basın. Daha sonra karşınıza şöyle bir ekran gelecek.
 
-<a href="https://resimlink.com/SKTBor_w"><img width="898" alt="Screen Shot 2023-02-11 at 14 08 01" src="https://resimlink.com/_cZ2YeNXJ-">
+<a href="https://resimlink.com/_cZ2YeNXJ-" title="ResimLink - Resim Yükle"><img width="1512" src="https://r.resimlink.com/_cZ2YeNXJ-.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
 
 **Owner** kısmında eğer hesabınızı yeni açtıysanız sadece sizin hesabınızın ismi gözükecektir. 
 
@@ -32,27 +33,31 @@ Artık kendi hesabınızın altında bu repoya ulaşıp, değişiklikler yapabil
 
 # 3. Dosya Yükleme
 
-Artık bir reponuz var, dosyalarınızı yükleyebilirsiniz. Depo sayfanıza gidin ve "Add Files" düğmesine tıklayın. 
+Artık bir reponuz var, dosyalarınızı yükleyebilirsiniz.
 
-Eğer klasör oluşturacaksanız öncelikle "Create New File" düğmesine tıklıyoruz.
+Depo sayfanıza gidin ve "Add Files" düğmesine tıklayın. Eğer klasör oluşturacaksanız öncelikle "Create New File" düğmesine tıklıyoruz.
 
-<a href="https://resimlink.com/SKTBor_w"><img width="1506" alt="Screen Shot 2023-02-11 at 14 21 25" src="https://resimlink.com/JR3UHg6fPr">
+<a href="https://resimlink.com/JR3UHg6fPr" title="ResimLink - Resim Yükle"><img width="1512" src="https://r.resimlink.com/JR3UHg6fPr.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
 
 Daha sonrasında ise oluşturacağımız klasörün adını yukarıdaki boşluğa yazıyoruz. Örneğin biz burada Angular klasörü oluşturmak istediğimizden "Angular/" şeklinde yaziyoruz. Sondaki "/" işareti klasör oluşturmamızı sağlıyor. Daha sonrasında "Links.md" yazarak linkleri ekleyeceğimiz dosyaları oluşturuyoruz. Son olarak "Commit Changes" düğmesine tıklayarak değişiklikleri kaydediyoruz.
 
-<a href="https://resimlink.com/SKTBor_w"><img width="1506" alt="Screen Shot 2023-02-11 at 14 21 25" src="https://resimlink.com/NkAUVQ">
+<a href="https://resimlink.com/NkAUVQ" title="ResimLink - Resim Yükle"><img width="1512" src="https://r.resimlink.com/NkAUVQ.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
 
-Daha sonrasında kçeli parantezler içerisine eklemek istediğimiz linke vereceğimiz adı, url kısmına da linki yapıştırıyoruz. Ve "Commit Changes" düğmesine tıklayarak değişiklikleri kaydediyoruz.
+Daha sonrasında köşeli parantezler içerisine eklemek istediğimiz linke vereceğimiz adı, url kısmına da linki yapıştırıyoruz. Ve "Commit Changes" düğmesine tıklayarak değişiklikleri kaydediyoruz.
+
+<a href="https://resimlink.com/oPuSZWe4" title="ResimLink - Resim Yükle"><img  width="1512" src="https://r.resimlink.com/oPuSZWe4.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
+
+Artık bir klasörümüz olduğundan içine pdf,zip vb dosyaları da yükleyebiliriz. Klasör içerisine girip "Add Files" düğmesine tıklayın. Dosya yükleme işlemi yapacağımızdan "Upload File" düğmesine tıklıyoruz. (Fotoğrafta görüldüğü gibi Database klasörüne girmiş bulunuyoruz.)
 
 <a href="https://resimlink.com/SKTBor_w"><img width="1506" alt="Screen Shot 2023-02-11 at 14 21 25" src="https://resimlink.com/oPuSZWe4">
 
-Artık bir klasörümüz olduğundan içine pdf,zip vb dosyaları da yükleyebiliriz. Klasör içerisine girip "Add Files" düğmesine tıklayın. Dosya yükleme işlemi yapacağımızdan "Upload File" düğmesine tıklıyoruz. (Fotoğrafta görüldüğü gibi Database klasörüne girmiş bulunuyoruz.)
+Bilgisayarınızdan tarayıcıya dosyaları sürükleyip bırakabilir ya da "Choose your files" düğmesine tıklayarak bilgisayarınızdaki dosyalardan seçebilirsiniz. Son olarak "Commit Changes" düğmesine tıklayarak değişiklikleri kaydediyoruz.
 
 <a href="https://resimlink.com/SKTBor_w"><img width="1506" alt="Screen Shot 2023-02-11 at 14 21 25" src="https://resimlink.com/nbMX9lBZRY">
 
 Bilgisayarınızdan tarayıcıya dosyaları sürükleyip bırakabilir ya da "Choose your files" düğmesine tıklayarak bilgisayarınızdaki dosyalardan seçebilirsiniz. Son olarak "Commit Changes" düğmesine tıklayarak değişiklikleri kaydediyoruz.
 
-<a href="https://resimlink.com/SKTBor_w"><img width="1506" alt="Screen Shot 2023-02-11 at 14 21 25" src="https://drive.google.com/drive/folders/1erS9S9xZjpxhECUeqqlFdIsX_N4qJgmE">
+
 
 # Pull Request
 
