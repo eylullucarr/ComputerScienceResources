@@ -47,7 +47,7 @@ Daha sonrasında köşeli parantezler içerisine eklemek istediğiniz linke vere
 
 <a href="https://resimlink.com/oPuSZWe4" title="ResimLink - Resim Yükle"><img  width="1512" src="https://r.resimlink.com/oPuSZWe4.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
 
-Yukarıdaki gibi yazının üstüne tıkladığında artık sizi direkt olarak linke yönlendirecektir.
+Yukarıdaki gibi yazının üstüne tıklandığında artık sizi direkt olarak linke yönlendirecektir.
 
 Artık bir klasörünüz olduğundan içine pdf,zip vb dosyaları da yükleyebilirsiniz. Klasör içerisine girip `Add Files` düğmesine tıklayın. Dosya yükleme işlemi yapacağınızdan `Upload File` düğmesine tıklamanız gerekiyor. (Fotoğrafta görüldüğü gibi Angular klasörüne girmiş bulunuyoruz.)
 
