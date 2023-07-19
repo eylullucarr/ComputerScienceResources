@@ -41,7 +41,7 @@ Depo sayfanıza gidin ve `Add Files` düğmesine tıklayın. Eğer klasör oluş
 
 Daha sonrasında ise oluşturacağınız klasörün adını yukarıdaki boşluğa yazın. Örneğin biz burada Angular klasörü oluşturmak istediğimizden `Angular/` şeklinde yaziyoruz. Sondaki `/` işareti klasör oluşturmanızı sağlıyor. Daha sonrasında `Links.md` yazarak linkleri ekleyeceğiniz dosyaları oluşturuyorsunuz. Son olarak `Commit Changes` düğmesine tıklayarak değişiklikleri kaydedebilirsiniz.
 
-<a href="https://resimlink.com/NkAUVQ" title="ResimLink - Resim Yükle"><img width="1512" src="https://r.resimlink.com/NkAUVQ.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
+<a href="https://resimlink.com/M09tzSvJ" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/M09tzSvJ.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
 
 Daha sonrasında köşeli parantezler içerisine eklemek istediğiniz linke vereceğiniz adı, url kısmına da linki yapıştırın. Ve `Commit Changes` düğmesine tıklayarak değişiklikleri kaydedin.
 
