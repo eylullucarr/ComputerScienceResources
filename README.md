@@ -10,10 +10,10 @@ Bu depoda şunları bulacaksınız:
 
 ## Nasıl kaynak yükleyebilirsiniz?
 
-# 1. Github Hesabı Oluşturun
+## 1. Github Hesabı Oluşturun
 Eğer daha önce Github hesabınız yoksa, bir hesap oluşturmanız gerekir. <a href="https://github.com/">github.com</a> adresine gidin ve sağ üst köşedeki "Sign Up" düğmesine tıklayın. Hesabınızı oluşturmak için yönergeleri takip edin.
 
-# 2. Repoyu kendi hesabınıza forklayın
+## 2. Repoyu kendi hesabınıza forklayın
 
 Fork, başkalarının projeleri üstünde kolayca çalışma yapmanızı sağlayan bir yöntem. Bunun üzerine çok kafa yormanıza gerek yok. Bu şekilde projeyi kendi hesabınıza forklayabilirsiniz.
 
@@ -31,7 +31,7 @@ Artık kendi hesabınızın altında bu repoya ulaşıp, değişiklikler yapabil
 
 `https://github.com/GithubHesapİsminiz/ComputerScienceResources` linki altından reponuza ulaşabilirsiniz.
 
-# 3. Dosya Yükleme
+## 3. Dosya Yükleme
 
 Artık bir reponuz var, dosyalarınızı yükleyebilirsiniz.
 
@@ -57,7 +57,7 @@ Bilgisayarınızdan tarayıcıya dosyaları sürükleyip bırakabilir ya da `Cho
 
 <a href="https://resimlink.com/XpEZYUrv" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/XpEZYUrv.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
 
-# Pull Request
+## Pull Request
 
 Bu değişiklikler sadece sizin reponuzda görünür olacaktır. Bu değişikliklerin asıl repoya gidebilmesi için `pull request` açmanız gerekir. Böylece asıl proje sahibi eklemek istediğiniz şeyleri inceler ve orijinal repoya ekler.
 
