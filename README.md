@@ -21,7 +21,7 @@ Fork, başkalarının projeleri üstünde kolayca çalışma yapmanızı sağlay
 
 Sağ üstteki Fork seçeneğine basın. Daha sonra karşınıza şöyle bir ekran gelecek.
 
-<a href="https://resimlink.com/_cZ2YeNXJ-" title="ResimLink - Resim Yükle"><img width="1512" src="https://r.resimlink.com/_cZ2YeNXJ-.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
+<a href="https://resimlink.com/NVekRlgD" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/NVekRlgD.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
 
 **Owner** kısmında eğer hesabınızı yeni açtıysanız sadece sizin hesabınızın ismi gözükecektir. 
 
