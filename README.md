@@ -8,9 +8,9 @@ Bu depoda şunları bulacaksınız:
 * Ders slaytları ve çalışma notları dahil olmak üzere ayrıntılı kurs materyalleri
 * Önerilen okumalar ve alıştırmalar gibi ek kaynaklar
 
-### Nasıl kaynak yükleyebilirsiniz?
+## Nasıl kaynak yükleyebilirsiniz?
 
-## 1. Github Hesabı Oluşturun
+### 1. Github Hesabı Oluşturun
 Eğer daha önce Github hesabınız yoksa, bir hesap oluşturmanız gerekir. <a href="https://github.com/">github.com</a> adresine gidin ve sağ üst köşedeki "Sign Up" düğmesine tıklayın. Hesabınızı oluşturmak için yönergeleri takip edin.
 
 ## 2. Repoyu kendi hesabınıza forklayın
