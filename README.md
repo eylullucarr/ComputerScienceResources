@@ -58,16 +58,3 @@ Bilgisayarınızdan tarayıcıya dosyaları sürükleyip bırakabilir ya da "Cho
 Bilgisayarınızdan tarayıcıya dosyaları sürükleyip bırakabilir ya da "Choose your files" düğmesine tıklayarak bilgisayarınızdaki dosyalardan seçebilirsiniz. Son olarak "Commit Changes" düğmesine tıklayarak değişiklikleri kaydediyoruz.
 
 
-
-# Pull Request
-
-Bu değişiklikler sadece sizin reponuzda görünür olacaktır. Bu değişikliklerin asıl repoya gidebilmesi için `pull request` açmanız gerekir. Böylece asıl proje sahibi eklemek istediğiniz şeyleri inceler ve orijinal repoya ekler.
-
-<a href="https://resimlink.com/SKTBor_w"><img width="1512" alt="Screen Shot 2023-02-11 at 14 29 09" src="https://user-images.githubusercontent.com/72661473/218255588-52771ea8-4f29-4da6-816d-347ca1e53e76.png">
-
-Reponuzda `Contribute` kısmında böyle bir mesaj göreceksiniz. `Open Pull Request` seçeneğine tıklayın. Tıkladıktan sonra gerekli mesajlar ile pull requestinizin proje sahibi tarafından incelenmesini sağlayabilirsiniz.
-
-https://user-images.githubusercontent.com/72661473/218255649-014ae5c1-8d43-4775-9f83-9e290f615e9b.mov
-
-Bu adımlardan sonra gerekli incelemelerden sonra kodunuz orijinal repoya eklenecektir.
-
