@@ -47,14 +47,14 @@ Daha sonrasında köşeli parantezler içerisine eklemek istediğimiz linke vere
 
 <a href="https://resimlink.com/oPuSZWe4" title="ResimLink - Resim Yükle"><img  width="1512" src="https://r.resimlink.com/oPuSZWe4.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
 
-Artık bir klasörümüz olduğundan içine pdf,zip vb dosyaları da yükleyebiliriz. Klasör içerisine girip "Add Files" düğmesine tıklayın. Dosya yükleme işlemi yapacağımızdan "Upload File" düğmesine tıklıyoruz. (Fotoğrafta görüldüğü gibi Database klasörüne girmiş bulunuyoruz.)
+Yukarıdaki gibi yazının üstüne tıkladığında artık bizi direkt olarak linke yönlendirecektir.
 
-<a href="https://resimlink.com/SKTBor_w"><img width="1506" alt="Screen Shot 2023-02-11 at 14 21 25" src="https://resimlink.com/oPuSZWe4">
+Artık bir klasörümüz olduğundan içine pdf,zip vb dosyaları da yükleyebiliriz. Klasör içerisine girip "Add Files" düğmesine tıklayın. Dosya yükleme işlemi yapacağımızdan "Upload File" düğmesine tıklıyoruz. (Fotoğrafta görüldüğü gibi Angular klasörüne girmiş bulunuyoruz.)
 
-Bilgisayarınızdan tarayıcıya dosyaları sürükleyip bırakabilir ya da "Choose your files" düğmesine tıklayarak bilgisayarınızdaki dosyalardan seçebilirsiniz. Son olarak "Commit Changes" düğmesine tıklayarak değişiklikleri kaydediyoruz.
-
-<a href="https://resimlink.com/SKTBor_w"><img width="1506" alt="Screen Shot 2023-02-11 at 14 21 25" src="https://resimlink.com/nbMX9lBZRY">
+<a href="https://resimlink.com/Wm6PeTiQU3fB" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/Wm6PeTiQU3fB.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
 
 Bilgisayarınızdan tarayıcıya dosyaları sürükleyip bırakabilir ya da "Choose your files" düğmesine tıklayarak bilgisayarınızdaki dosyalardan seçebilirsiniz. Son olarak "Commit Changes" düğmesine tıklayarak değişiklikleri kaydediyoruz.
+
+<a href="https://resimlink.com/XpEZYUrv" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/XpEZYUrv.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
 
 
