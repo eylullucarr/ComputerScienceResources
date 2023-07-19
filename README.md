@@ -35,25 +35,25 @@ Artık kendi hesabınızın altında bu repoya ulaşıp, değişiklikler yapabil
 
 Artık bir reponuz var, dosyalarınızı yükleyebilirsiniz.
 
-Depo sayfanıza gidin ve `Add Files` düğmesine tıklayın. Eğer klasör oluşturacaksanız öncelikle `Create New File` düğmesine tıklıyoruz.
+Depo sayfanıza gidin ve `Add Files` düğmesine tıklayın. Eğer klasör oluşturacaksanız öncelikle `Create New File` düğmesine tıklayın.
 
 <a href="https://resimlink.com/JR3UHg6fPr" title="ResimLink - Resim Yükle"><img width="1512" src="https://r.resimlink.com/JR3UHg6fPr.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
 
-Daha sonrasında ise oluşturacağımız klasörün adını yukarıdaki boşluğa yazıyoruz. Örneğin biz burada Angular klasörü oluşturmak istediğimizden `Angular/` şeklinde yaziyoruz. Sondaki `/` işareti klasör oluşturmamızı sağlıyor. Daha sonrasında `Links.md` yazarak linkleri ekleyeceğimiz dosyaları oluşturuyoruz. Son olarak `Commit Changes` düğmesine tıklayarak değişiklikleri kaydediyoruz.
+Daha sonrasında ise oluşturacağınız klasörün adını yukarıdaki boşluğa yazın. Örneğin biz burada Angular klasörü oluşturmak istediğimizden `Angular/` şeklinde yaziyoruz. Sondaki `/` işareti klasör oluşturmanızı sağlıyor. Daha sonrasında `Links.md` yazarak linkleri ekleyeceğiniz dosyaları oluşturuyorsunuz. Son olarak `Commit Changes` düğmesine tıklayarak değişiklikleri kaydedebilirsiniz.
 
 <a href="https://resimlink.com/NkAUVQ" title="ResimLink - Resim Yükle"><img width="1512" src="https://r.resimlink.com/NkAUVQ.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
 
-Daha sonrasında köşeli parantezler içerisine eklemek istediğimiz linke vereceğimiz adı, url kısmına da linki yapıştırıyoruz. Ve `Commit Changes` düğmesine tıklayarak değişiklikleri kaydediyoruz.
+Daha sonrasında köşeli parantezler içerisine eklemek istediğiniz linke vereceğiniz adı, url kısmına da linki yapıştırın. Ve `Commit Changes` düğmesine tıklayarak değişiklikleri kaydedin.
 
 <a href="https://resimlink.com/oPuSZWe4" title="ResimLink - Resim Yükle"><img  width="1512" src="https://r.resimlink.com/oPuSZWe4.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
 
-Yukarıdaki gibi yazının üstüne tıkladığında artık bizi direkt olarak linke yönlendirecektir.
+Yukarıdaki gibi yazının üstüne tıkladığında artık sizi direkt olarak linke yönlendirecektir.
 
-Artık bir klasörümüz olduğundan içine pdf,zip vb dosyaları da yükleyebiliriz. Klasör içerisine girip `Add Files` düğmesine tıklayın. Dosya yükleme işlemi yapacağımızdan `Upload File` düğmesine tıklıyoruz. (Fotoğrafta görüldüğü gibi Angular klasörüne girmiş bulunuyoruz.)
+Artık bir klasörünüz olduğundan içine pdf,zip vb dosyaları da yükleyebilirsiniz. Klasör içerisine girip `Add Files` düğmesine tıklayın. Dosya yükleme işlemi yapacağınızdan `Upload File` düğmesine tıklamanız gerekiyor. (Fotoğrafta görüldüğü gibi Angular klasörüne girmiş bulunuyoruz.)
 
 <a href="https://resimlink.com/Wm6PeTiQU3fB" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/Wm6PeTiQU3fB.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
 
-Bilgisayarınızdan tarayıcıya dosyaları sürükleyip bırakabilir ya da `Choose your files` düğmesine tıklayarak bilgisayarınızdaki dosyalardan seçebilirsiniz. Son olarak `Commit Changes` düğmesine tıklayarak değişiklikleri kaydediyoruz.
+Bilgisayarınızdan tarayıcıya dosyaları sürükleyip bırakabilir ya da `Choose your files` düğmesine tıklayarak bilgisayarınızdaki dosyalardan seçebilirsiniz. Son olarak `Commit Changes` düğmesine tıklayarak değişiklikleri kaydedin.
 
 <a href="https://resimlink.com/XpEZYUrv" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/XpEZYUrv.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
 
